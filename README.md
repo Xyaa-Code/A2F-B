@@ -1,3 +1,4 @@
+![template_s](https://github.com/Xyaa-Code/A2F-B/blob/main/data/image/images%20(5).jpeg)
 
 ###### Download Aplikasi Termux Di Google Play Store Atau [Disini!](https://f-droid.org/packages/com.termux/) Lalu Buka Aplikasinya Dan Ketikan Perintah Dibawah Ini
 
