@@ -1,6 +1,0 @@
-{
-  'play-audio': 'play.mp3',
-  'play-audio': 'stop.mp3',
-  'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.92 Mobile Safari/537.36',
-  'content-type': 'text/json; charset=utf-8'
-}
