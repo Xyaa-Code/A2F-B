@@ -1,4 +1,5 @@
 
+###### Download Aplikasi Termux Di Google Play Store Atau [disini!](https://memek.com) Lalu Buka Aplikasinya Dan Ketikan Perintah Dibawah Ini
 
 ##### Install Tools :
 
