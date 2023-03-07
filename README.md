@@ -10,6 +10,13 @@
  $ pkg install python
  $ pkg install python git
  $ pkg install pip
+ $ git clone https://github.com/Xyaa-Code/A2F-B
 ```
 
-##### Install :
+##### Run Script :
+
+```
+ $ cd $HOME/A2F-B
+ $ git pull
+ $ python run.py
+```
