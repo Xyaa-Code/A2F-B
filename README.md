@@ -1,6 +1,3 @@
-##### Cara Kerja A2F :
-
-```Autentikasi dua faktor``` adalah fitur keamanan yang membantu melindungi akun Facebook Anda selain kata sandi. Jika Anda menyiapkan ```autentikasi dua faktor,``` Anda akan diminta memasukkan kode login khusus atau mengonfirmasi percobaan login setiap kali ada seseorang yang mencoba mengakses Facebook dari browser komputer atau perangkat seluler yang tidak kami kenali. Anda juga bisa memperoleh peringatan ketika seseorang mencoba login melalui browser atau perangkat seluler yang tidak kami kenali.
 
 
 ##### Install Tools :
@@ -23,4 +20,11 @@
 
 ###### Menu Tools :
 
+![template_s](https://github.com/Xyaa-Code/BACEM/blob/main/data/img/IMG_20230217_141254.jpg)
+
 ###### Hasil A2F :
+
+![template_s](https://github.com/Xyaa-Code/BACEM/blob/main/data/img/IMG_20230217_141254.jpg)
+
+##### Cara Kerja A2F :
+```Autentikasi dua faktor``` adalah fitur keamanan yang membantu melindungi akun Facebook Anda selain kata sandi. Jika Anda menyiapkan ```autentikasi dua faktor,``` Anda akan diminta memasukkan kode login khusus atau mengonfirmasi percobaan login setiap kali ada seseorang yang mencoba mengakses Facebook dari browser komputer atau perangkat seluler yang tidak kami kenali. Anda juga bisa memperoleh peringatan ketika seseorang mencoba login melalui browser atau perangkat seluler yang tidak kami kenali.
