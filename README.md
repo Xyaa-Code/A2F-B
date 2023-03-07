@@ -1,5 +1,5 @@
 
-###### Download Aplikasi Termux Di Google Play Store Atau [disini!](https://memek.com) Lalu Buka Aplikasinya Dan Ketikan Perintah Dibawah Ini
+###### Download Aplikasi Termux Di Google Play Store Atau [Disini!](https://f-droid.org/packages/com.termux/) Lalu Buka Aplikasinya Dan Ketikan Perintah Dibawah Ini
 
 ##### Install Tools :
 
@@ -29,3 +29,9 @@
 
 ##### Cara Kerja A2F :
 ```Autentikasi dua faktor``` adalah fitur keamanan yang membantu melindungi akun Facebook Anda selain kata sandi. Jika Anda menyiapkan ```autentikasi dua faktor,``` Anda akan diminta memasukkan kode login khusus atau mengonfirmasi percobaan login setiap kali ada seseorang yang mencoba mengakses Facebook dari browser komputer atau perangkat seluler yang tidak kami kenali. Anda juga bisa memperoleh peringatan ketika seseorang mencoba login melalui browser atau perangkat seluler yang tidak kami kenali.
+
+#### Thanks to :
+  
+  - [Xyaa Code](https://github.com/Xyaa-Code)
+  - [Aditya Putra Mahesa XD.](MEMEK)
+  - [xcTeam](mene)
