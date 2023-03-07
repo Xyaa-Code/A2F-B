@@ -6,8 +6,7 @@
 ##### Install Tools :
 
 ```
- $ pkg install upgrade && update
- $ pkg install python
+ $ pkg update && pkg upgrade
  $ pkg install python git
  $ pkg install pip
  $ git clone https://github.com/Xyaa-Code/A2F-B
@@ -17,6 +16,7 @@
 
 ```
  $ cd $HOME/A2F-B
+ $ pip install -r data/requirements.txt
  $ git pull
  $ python run.py
 ```
