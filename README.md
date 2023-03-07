@@ -33,5 +33,5 @@
 #### Thanks to :
   
   - [Xyaa Code](https://github.com/Xyaa-Code)
-  - [Aditya Putra Mahesa XD.](MEMEK)
-  - [xcTeam](mene)
+  - [Aditya Putra Mahesa XD.](https://github.com/AdtyaXC)
+  - [xcTeamCode](https://github.com/xcTeamCode)
